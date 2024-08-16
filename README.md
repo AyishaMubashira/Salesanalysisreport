@@ -8,7 +8,7 @@ visualised it by slicer based on year.
 
 By profit analysis report;
 visualised the total profit.
-Total profit by year , month , country and segment ,product and price
+Total profit by year , month , country and segment ,product and price .
 visualised it by slicer of different country names for easy insights of data.
 
 Add bookmarks to represent selected country sales and sales of particular year.
